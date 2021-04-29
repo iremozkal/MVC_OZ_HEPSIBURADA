@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "ImportResult";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayout.cshtml";
+}
+
+@using OZ_HEPSIBURADA.BLL.Model_DTO
+@model List<CategoryDTO>
+
+<!-- import-result -->
+<div class="row">
+    <div class="col-md-12">
+        <div>
+            <h2>Import Result</h2>
+        </div>
+        <div class="panel panel-default">
+            <div class="panel-heading" style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+                <h4>Categories</h4>
+            </div>
+            <!-- /.panel-header -->
+
+            <div class="panel-body">
+                <div class="table-responsive">
+                    <table class="table table-striped table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>Order</th>
+                                <th>Category Name</th>
+                                <th>Category Description</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                int index = 1;
+                                foreach (CategoryDTO item in ViewBag.CreatedDTOList)
+                                {
+                                <tr>
+                                    <td>@index</td>
+                                    <td>@item.DTOName</td>
+                                    <td>@item.DTODesc</td>
+                                </tr>
+                                    index++;
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!-- /.panel-body -->
+
+            <div class="panel-footer" style="display: flex; justify-content: flex-end;">
+                <div>
+                    <input type="submit" class="btn btn-success" value="Save to Database"> 
+                </div>
+            </div>
+            <!-- /.panel-footer -->
+        </div>
+        <!-- /.panel -->
+    </div>
+</div>

@@ -1,0 +1,93 @@
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.BLL.dll.config
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.BLL.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.BLL.pdb
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\EntityFramework.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Owin.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.DAL.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.DATA.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.DAL.pdb
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.DATA.pdb
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\EntityFramework.xml
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.xml
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\obj\Debug\OZ_HEPSIBURADA.BLL.csprojResolveAssemblyReference.cache
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\obj\Debug\OZ_HEPSIBURADA.BLL.dll
+C:\Users\irem\documents\visual studio 2012\Projects\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\obj\Debug\OZ_HEPSIBURADA.BLL.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.BLL.dll.config
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.BLL.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.BLL.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\EntityFramework.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Owin.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.DAL.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.DATA.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.DAL.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.DATA.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\EntityFramework.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\obj\Debug\OZ_HEPSIBURADA.BLL.csprojResolveAssemblyReference.cache
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\obj\Debug\OZ_HEPSIBURADA.BLL.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA\OZ_HEPSIBURADA.BLL\obj\Debug\OZ_HEPSIBURADA.BLL.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.BLL.dll.config
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.BLL.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.BLL.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\EntityFramework.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Owin.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.DAL.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.DATA.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.DAL.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\OZ_HEPSIBURADA.DATA.pdb
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\EntityFramework.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\obj\Debug\OZ_HEPSIBURADA.BLL.csprojResolveAssemblyReference.cache
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\obj\Debug\OZ_HEPSIBURADA.BLL.dll
+C:\Users\iirem\Documents\Visual Studio 2012\Projects\Learning\OZ_HEPSIBURADA - Kopya\OZ_HEPSIBURADA.BLL\obj\Debug\OZ_HEPSIBURADA.BLL.pdb

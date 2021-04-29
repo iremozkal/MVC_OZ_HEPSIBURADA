@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <!-- Start of CSS Libraries -->
+    <link href="~/Areas/Admin/Assets/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Areas/Admin/Assets/Content/font-awesome.css" rel="stylesheet" />
+    <!-- End of Css Libraries -->
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <header class="navbar navbar-default hidden-menu hidden-menu-up">
+        <div class="container">
+            <div class="row">
+                <div class="navbar-header col-sm-3">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span>Menu</span>
+                        <i class="fa fa-bars"></i>
+                    </button>
+                </div>
+                <div class="col-sm-9">
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="/Home/Index">Home</a></li>
+                            <li><a href="/Account/Login">Login</a></li>
+                            <li><a href="/Account/Register">Register</a></li>
+                            <li><a href="/Account/Logout">Logout</a></li>
+                            <li><a href="/Admin/Dashboard/Index">Admin</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="main-container">
+        <div class="container">
+            <div class="row">
+                <div class="posts">@RenderBody()</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Start of JS Libraries -->
+    <script src="~/Areas/Admin/Assets/Scripts/jquery-2.1.4.js"></script>
+    <script src="~/Areas/Admin/Assets/Scripts/bootstrap.js"></script>
+    <!-- End of JS Libraries -->
+</body>
+</html>
